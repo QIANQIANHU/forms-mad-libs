@@ -1,6 +1,6 @@
 #story {
   display: none;
 }
-.appetizer {
+.appetizer, .mainCourse, .dessert {
   color: blue;
 }
